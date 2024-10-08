@@ -1,1 +1,2 @@
-Ex2: https://www.youtube.com/watch?v=5z8e-aCgLys
+Ex2 (doar modificare animatie la apasarea tastei A, fara image target): https://youtu.be/5z8e-aCgLys
+Ex2 (modificare animatie la apasarea tastei A cu image target): https://youtu.be/2MFXTeIAxSU
